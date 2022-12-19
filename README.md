@@ -3,6 +3,9 @@
 </p>
 <h3 align="center">
 Welcome to my Circus!
+</br>
+</br>
+<a href="https://discord.gg/gMWmuaZEY6"><img alt="Discord" src="https://img.shields.io/discord/1010924099079503872?label=Discord&logo=Discord&logoColor=white"></a>
 </h3>
 
 #### About me:
