@@ -15,10 +15,10 @@ Welcome to my Circus!
 
 #### About me:
 
-I develop games and applications as a hobby.
+I develop games and apps as a hobby.
 
 I primarily work on Roblox, having the most experience in the Lua/Luau Programming Language. I design games, UI/UX, and more.
-On Roblox, I currently lead the Development team and assume the role of Community Manager for Bloodxz's SCP Foundation group on Roblox (10k+ Members).
+On Roblox, I currently own and develop for BSCPF, a group on Roblox (10k+ Members).
 
 Outside of Roblox, I create Rust and JavaScript Applications, 3D Model, and do Graphic Design. Though not as good as my knowledge in Lua/Luau, I do know the JavaScript Programming Language and currently learning the Rust Programming Language. I primarily use these languages to create applications on Discord.
 
