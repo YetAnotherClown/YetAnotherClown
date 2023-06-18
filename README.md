@@ -17,10 +17,10 @@ Welcome to my Circus!
 
 I develop games and apps as a hobby.
 
-I primarily work on Roblox, having the most experience in the Lua/Luau Programming Language. I design games, UI/UX, and more.
-On Roblox, I currently own and develop for BSCPF, a group on Roblox (10k+ Members).
+I primarily work on Roblox, having the most experience in the Luau Programming Language. I design games, UI/UX, and more.
+On Roblox, I've worked for a 11k member SCPF group and currently work on various independent projects as well as for a 55k member roleplaying group.
 
-Outside of Roblox, I create Rust and JavaScript Applications, 3D Model, and do Graphic Design. Though not as good as my knowledge in Lua/Luau, I do know the JavaScript Programming Language and currently learning the Rust Programming Language. I primarily use these languages to create applications on Discord.
+Outside of Roblox, I create Rust and JavaScript Applications & Games, 3D Model, and do Graphic Design. Though not as good as my knowledge in Luau, I do know the JavaScript Programming Language and am currently learning the Rust Programming Language. I primarily use these languages to create applications on Discord and Rust to build games as an hobby.
 
 #### Want to see more?
 
