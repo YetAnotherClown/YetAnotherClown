@@ -8,8 +8,8 @@ Welcome to my Circus!
 <a href="https://discord.gg/gMWmuaZEY6">
   <img alt="Join Clown's Circus Discord Server" src="https://img.shields.io/discord/1010924099079503872?color=%2344cc11&label=Discord&logo=Discord&logoColor=%23FFF&style=flat-square">
 </a>
-<a rel="me" href="https://mastodon.gamedev.place/@CIownxz">
-  <img alt="Follow on Mastodon" src="https://img.shields.io/mastodon/follow/109623283364578831?color=%23595aff&domain=https%3A%2F%2Fmastodon.gamedev.place&label=Mastodon&logo=Mastodon&logoColor=%23FFFFFF&style=flat-square">
+<a rel="me" href="https://mastodon.gamedev.place/@YetAnotherClown">
+  <img alt="Follow on Mastodon" src="https://img.shields.io/mastodon/follow/112044519487690421?color=%23595aff&domain=https%3A%2F%2Fmastodon.gamedev.place&label=Mastodon&logo=Mastodon&logoColor=%23FFFFFF&style=flat-square">
 </a>
 </h3>
 
