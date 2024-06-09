@@ -1,5 +1,5 @@
 <p align="center">
-<img width="120" height="120" src="https://cdn.discordapp.com/icons/1010924099079503872/47766cca7782f0b8d6eac98f787402bb.png">
+<img width="120" height="120" src="./static/CircusTent_YetAnotherClown.png">
 </p>
 <h3 align="center">
 Welcome to my Circus!
